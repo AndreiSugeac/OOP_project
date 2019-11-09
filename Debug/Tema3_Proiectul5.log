@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\visualstudio\poo\tema3_proiectul5\main.cpp(61): warning C4101: 'val': unreferenced local variable
+d:\visualstudio\poo\tema3_proiectul5\main.cpp(77): warning C4101: 'val': unreferenced local variable
+d:\visualstudio\poo\tema3_proiectul5\main.cpp(93): warning C4101: 'val': unreferenced local variable
+d:\visualstudio\poo\tema3_proiectul5\main.cpp(463): warning C4101: 'value': unreferenced local variable
+d:\visualstudio\poo\tema3_proiectul5\main.cpp(473): warning C4101: 'value': unreferenced local variable
+d:\visualstudio\poo\tema3_proiectul5\main.cpp(486): warning C4101: 'value': unreferenced local variable
+d:\visualstudio\poo\tema3_proiectul5\main.cpp(529): warning C4101: 'selection': unreferenced local variable
+d:\visualstudio\poo\tema3_proiectul5\main.cpp(640): warning C4101: 'val': unreferenced local variable
+  Tema3_Proiectul5.vcxproj -> D:\VisualStudio\Poo\Tema3_Proiectul5\Debug\Tema3_Proiectul5.exe
